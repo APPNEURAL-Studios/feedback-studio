@@ -1,0 +1,98 @@
+{
+  "slug": "feedback-studio",
+  "host": "feedback",
+  "title": "Feedback Studio",
+  "tagline": "Surveys, NPS, reviews and sentiment",
+  "description": "## Microservices Used",
+  "editors": [
+    {
+      "category": "Feedback Editors",
+      "name": "Survey Editor",
+      "desc": "Survey question and flow builder"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "NPS Question Editor",
+      "desc": "Net Promoter Score survey setup"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Review Form Editor",
+      "desc": "Product/service review forms"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Sentiment Rule Editor",
+      "desc": "Sentiment classification rules"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Rating Scale Editor",
+      "desc": "Custom rating scale design"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Feedback Widget Editor",
+      "desc": "Embeddable feedback widgets"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Response Analytics Editor",
+      "desc": "Response trend analysis"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Follow-up Flow Editor",
+      "desc": "Post-response follow-up sequences"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Testimonial Editor",
+      "desc": "Customer testimonial curation"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Poll Editor",
+      "desc": "Quick poll creation"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Feedback Tag Editor",
+      "desc": "Categorization and tagging rules"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Churn Signal Editor",
+      "desc": "At-risk customer signal rules"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Feedback Routing Editor",
+      "desc": "Team/department routing rules"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Benchmark Report Editor",
+      "desc": "Cross-period benchmark reports"
+    },
+    {
+      "category": "Feedback Editors",
+      "name": "Closed-Loop Response Editor",
+      "desc": "Customer response resolution tracking"
+    }
+  ],
+  "services": [
+    [
+      "review",
+      "new"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "customer",
+      "core"
+    ]
+  ]
+}
