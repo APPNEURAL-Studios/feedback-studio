@@ -24,19 +24,8 @@
         { "pattern": "feedback.studio.appneural.com", "custom_domain": true }
       ],
       "observability": { "enabled": true }
-    },
-
-    "dev": {
-      "name": "feedback-studio-dev",
-      "workers_dev": true,
-      "assets": {
-        "directory": "./site",
-        "not_found_handling": "single-page-application"
-      },
-      "routes": [
-        { "pattern": "feedback-dev.studio.appneural.com", "custom_domain": true }
-      ],
-      "observability": { "enabled": true }
     }
+
+
   }
 }
